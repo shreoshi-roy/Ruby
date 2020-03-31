@@ -38,7 +38,7 @@ subject = English.new
 subject.book()
 
 
-## Outout:
+## Output:
 ## Subject book
 ## Maths book
 ## English book
