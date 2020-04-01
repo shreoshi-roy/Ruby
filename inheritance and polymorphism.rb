@@ -119,7 +119,7 @@ French.new(German.new(subject)).book      #used both decorators to achieve runti
 end
 
 
-## Output
+## Output:
 ## French Subject
 ## French Book
 ## Subject book
