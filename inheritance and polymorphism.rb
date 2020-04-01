@@ -1,4 +1,4 @@
-##Polymorphism using Inheritance
+##POLYMORPHISM USING INHERITANCE
 class Subject   #Class Definition
   def book
     puts "Subject book"
@@ -40,7 +40,7 @@ subject.book()
 ## English book
 
 
-##Polymorphism using Duck-Typing
+##POLYMORPHISM USING DUCK-TYPING
 class Physics
   def name
     puts "Physics Subject"
@@ -82,7 +82,7 @@ subject.code (type)
 ## Subject code is 120
 
 
-##Polymorphism using Decorator Pattern
+##POLYMORPHISM USING DECORATOR PATTERN
 class French
   def initialize(subject)  #constructor accepting subject as argument
     @subject = subject
